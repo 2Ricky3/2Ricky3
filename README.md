@@ -28,7 +28,7 @@ I'm a Creative Technology student at Open Window, passionate about blending tech
 
 ---
 
-## 🚀 Projects and Highlights
+## 🚀 Projects and Highlights (Year 2)
 
 - **[School System](https://github.com/2Ricky3/school_system.git)** - A web app for managing a simple school system.
 - **[PawPrints](https://github.com/RP231013/PawPrints_DV2_T2_GroupProject.git)** - A pet adoption site I contributed to, focusing on security and login.
