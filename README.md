@@ -1,6 +1,6 @@
 # Hi there, I'm Ricard Oosthuizen 👋
 
-I'm a Creative Technology student at Open Window, passionate about blending technology and creativity to build innovative solutions. With experience in PHP, MySQL, React, MongoDB, HTML, and CSS, I enjoy solving problems and creating meaningful digital experiences.
+I’m a Creative Technology student at Open Window, passionate about merging technology with design to craft innovative and impactful digital experiences. With hands-on experience in technologies like PHP, MySQL, React, MongoDB, HTML, CSS, and more, I love tackling real-world problems through creative and functional solutions.
 
 - 🌱 I’m currently expanding my skills in full-stack development.
 - 🔭 I’m working on several exciting projects as part of my studies.
