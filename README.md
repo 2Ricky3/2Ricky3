@@ -1,9 +1,9 @@
 # Hi there, I'm Ricard Oosthuizen 👋
 
-I’m a Creative Technology student at Open Window, passionate about merging technology with design to craft innovative and impactful digital experiences. With hands-on experience in technologies like PHP, MySQL, React, MongoDB, HTML, CSS, and more, I love tackling real-world problems through creative and functional solutions.
+I'm a Creative Technology student at Open Window, passionate about merging technology with design to craft innovative and impactful digital experiences. With hands-on experience in technologies like PHP, React, React Native, TypeScript, AWS, and Firebase, I'm constantly exploring new ways to bring ideas to life.
 
-- 🌱 I’m currently expanding my skills in full-stack development.
-- 🔭 I’m working on several exciting projects as part of my studies.
+- 🌱 I'm currently expanding my skills in full-stack development.
+- 🔭 I'm working on several exciting projects as part of my studies.
 - 💡 Always looking for new learning opportunities and collaborations.
 - 📫 How to reach me: [oosthuizenricard@gmail.com](mailto:oosthuizenricard@gmail.com)
 
@@ -63,8 +63,8 @@ I’m a Creative Technology student at Open Window, passionate about merging tec
 
 - **[Handyman](https://github.com/2Ricky3/handyman1.git)** - A web app for handyman bookings.
 - **[PawPrints](https://github.com/RP231013/PawPrints_DV2_T2_GroupProject.git)** - A pet adoption site I contributed to, focusing on security and login.
-- **[PenPets](https://github.com/2Ricky3/PetAdoption.git)** - A pet adoption site developed independently and deployed on both Google Cloud and AWS.
-- **[F1 Statistics](https://github.com/2Ricky3/f1.git)** - A streamlined F1 website allowing users to compare F1 drivers through API data.
+- **[symtoms-isense1](https://github.com/2Ricky3/symtoms-isense1.git)** - A pet adoption site developed independently and deployed on both Google Cloud and AWS.
+- **[quicklist1](https://github.com/2Ricky3/quicklist1.git)** - A streamlined F1 website allowing users to compare F1 drivers through API data.
 
 ---
 
