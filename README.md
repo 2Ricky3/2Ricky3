@@ -63,8 +63,8 @@ I'm a Creative Technology student at Open Window, passionate about merging techn
 
 - **[Handyman](https://github.com/2Ricky3/handyman1.git)** - A web app for handyman bookings.
 - **[PawPrints](https://github.com/RP231013/PawPrints_DV2_T2_GroupProject.git)** - A pet adoption site I contributed to, focusing on security and login.
-- **[symtoms-isense1](https://github.com/2Ricky3/symtoms-isense1.git)** - An AI doctor that analyzes user symptoms and helps create SOAP documents for doctors to read.
-- **[quicklist1](https://github.com/2Ricky3/quicklist1.git)** - An easy-to-use one-handed application for shopping, helping users create grocery lists and make it easy for others to edit them.
+- **[symtoms-isense1](https://github.com/2Ricky3/symptomisense1.git)** - An AI doctor that analyzes user symptoms and helps create SOAP documents for doctors to read.
+- **[quicklist1](https://github.com/2Ricky3/QuickList1.git)** - An easy-to-use one-handed application for shopping, helping users create grocery lists and make it easy for others to edit them.
 
 ---
 
